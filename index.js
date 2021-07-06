@@ -1,0 +1,1 @@
+let chandu = document.getElementById("chandu").textContent = "chandureddy"
